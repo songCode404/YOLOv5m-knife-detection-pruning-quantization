@@ -20,7 +20,9 @@ cd yolov5
 
 # 2. 필수 라이브러리 설치
 pip install -r requirements.txt
-pip install onnx onnxruntime-gpu # 최적화 및 양자화용```
+pip install onnx onnxruntime-gpu # 최적화 및 양자화용
+
+```
 
 ## 🛠 2. 기술적 특징 (Technical Highlights)
 - **Base Model**: YOLOv5m (성능 확보를 위해 YOLOv5s 대비 파라미터가 풍부한 m 모델 채택)
