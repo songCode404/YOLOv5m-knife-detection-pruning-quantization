@@ -2,6 +2,9 @@
 
 ### 실시간 감시 시스템을 위한 YOLOv5m 기반 흉기 탐지 모델 최적화 파이프라인
 
+### 📦 Model Weights
+최종 최적화된 모델 가중치 및 ONNX 파일은 [Releases](https://github.com/songCode404/YOLOv5m-knife-detection-pruning-quantization/releases) 탭에서 다운로드하실 수 있습니다.
+
 ---
 
 ## 📌 0. 프로젝트 개요 (Overview)
