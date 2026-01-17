@@ -55,6 +55,7 @@ pip install onnx onnxruntime-gpu # 최적화 및 양자화용
 
 ### **Issue 4. 오탐의 문제**
 <img width="939" height="796" alt="image" src="https://github.com/user-attachments/assets/db3922ee-a4d0-44b2-92b9-e9100d017af5" />
+
 - **문제점**: 아무것도 없는 배경이나 흉기(칼)의 크기가 작거나, 칼과 비슷한 물체를 칼로 오탐하는 경우가 발생
 - **분석**: **negative sample**을 추가적인 학습이 필요함
 - **해결 1**: 칼과 유사한 물체가 있는 **background sample(negative sample)**을 추가하고 **Hard Case**를 추가하여 재학습이 필요함
