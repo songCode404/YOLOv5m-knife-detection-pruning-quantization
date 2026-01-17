@@ -54,7 +54,7 @@ pip install onnx onnxruntime-gpu # 최적화 및 양자화용
 - **해결**: **30% pruning** 후 재학습/fine-tuing 실시 + **FP32 to FP16, INT8 양자화**를 통하여 연산 부하를 줄여 제한된 환경에서도 빠르게 탐지할 수 있도록 함.
 
 ### **Issue 4. 오탐의 문제**
-<img width="939" height="796" alt="image" src="https://github.com/user-attachments/assets/db3922ee-a4d0-44b2-92b9-e9100d017af5" />
+<img width="450" height="796" alt="image" src="https://github.com/user-attachments/assets/db3922ee-a4d0-44b2-92b9-e9100d017af5" />
 
 - **문제점**: 아무것도 없는 배경이나 흉기(칼)의 크기가 작거나, 칼과 비슷한 물체를 칼로 오탐하는 경우가 발생
 - **분석**: **negative sample**을 추가적인 학습이 필요함
