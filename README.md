@@ -80,9 +80,9 @@
 
 <table idx="1">
   <tr>
-    <td align="center"><b>F1 Curve</b></td>
-    <td align="center"><b>PR Curve</b></td>
-    <td align="center"><b>Confusion Matrix</b></td>
+    <td align="center"><b>Knife Detection</b></td>
+    <td align="center"><b>Streaming Test</b></td>
+    <td align="center"><b>RC Car</b></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d9b64080-6788-4ae4-817b-f534cc5a8fb9" width="300"></td>
