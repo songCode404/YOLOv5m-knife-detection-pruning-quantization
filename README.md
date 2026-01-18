@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### 📦 Model Weights
-[Releases]([https://github.com/songCode404/YOLOv5m-knife-detection-pruning-quantization.git/releases](https://github.com/songCode404/YOLOv5m-knife-detection-pruning-quantization/releases/tag/v2.0.0)) 탭에서 다운로드하실 수 있습니다.
+[Releases]((https://github.com/songCode404/YOLOv5m-knife-detection-pruning-quantization/releases/tag/v2.0.0)) 탭에서 다운로드하실 수 있습니다.
 ---
 
 ## 📌 0. 프로젝트 개요 (Overview)
